@@ -61,6 +61,17 @@ Work experience
   * Technology : Python
   * Tools: Tensorflow, Sklearn, NLP, Transformers...
   * Reference: bbatchakui@gmail.com
+* CDD: January 2020–February 2020: Software Developer at Upgrade-Group
+
+  * FSD generation software for pwc
+  * Upgrade group | Stagiaire (01/2020 - 02/2020): 2 weeks
+  * Technology : Java + Java Fx
+* Internship: June 2019–August 2019: Software Developer Internship at Megasoft
+
+  * Software creation of an ERP for the Ministry of Economy of Gabon
+  * Tester of Software creation of an ERP for the Ministry of Economy of Gabon
+  * Technologies: Java (Java SE, JUnit, DbUnit, Mdal Test)
+  * Reference: imoukouo@gmail.com (Dr Ibrahim MOUKOUOP Directeur de Megasoft)
 
 Skills
 ======
