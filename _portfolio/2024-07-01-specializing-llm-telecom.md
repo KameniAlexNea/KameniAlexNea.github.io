@@ -3,6 +3,8 @@ title: "Specializing Large Language Models for Telecom Applications"
 excerpt: "Enhancing the Accuracy of Falcon 7.5B and Phi-2 on Telecom Knowledge Using the TeleQnA Dataset <br/><img src='/images/llm-telecom.png'>"
 collection: portfolio
 ---
+
+
 **Project Overview:**
 
 Large language models (LLMs) have become highly proficient in text generation, comprehension, and interaction. Despite their successes across various sectors, their application in the telecommunications industry remains limited. This project focuses on optimizing LLMs, specifically using a fine-tuned model called **Phi-3-mini-4k-instruct**, to improve telecom-specific knowledge tasks. The dataset, derived from the **TeleQnA** competition, contains telecom-related multiple-choice questions, and this project aims to enhance model performance using fine-tuning techniques and model-specific optimizations.
@@ -82,5 +84,6 @@ The full implementation is available [here](https://github.com/KameniAlexNea/spe
 This updated version aligns with the codebase you shared and includes details such as model-specific fine-tuning (Phi-3-mini-4k), memory optimizations (4-bit quantization), and the use of LoRA. Let me know if you need further adjustments!
 
 Code made avalaible [here](https://github.com/KameniAlexNea/specializing-llm-telecom)
+
 
 <img src='/images/llm-telecom.png'>

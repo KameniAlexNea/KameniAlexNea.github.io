@@ -44,6 +44,7 @@ Work experience
   - Developing a sophisticated multimodal model aimed at advancing the comprehension of IDC data.
   - Developing views using gradio for testing web service deployed
   - Specialized LLM Model on custom task and integration on Ivalua Products
+
 * Internship: April 2022–September 2022: Machine Learning Researcher at Etis Lab, [Ecole nationale supérieure de l&#39;Electronique et de ses Applications](https://www.linkedin.com/school/ensea-ecole-nationale-superieure-de-lelectronique-et-de-ses-applications/)
 
   * Data incremental learning in deep architectures :
@@ -79,6 +80,7 @@ Work experience
 Skills
 ======
 
+
 1. **Classical Machine Learning**
 2. **Computer Vision**
 3. **Natural Language Processing (NLP)**
@@ -88,13 +90,17 @@ Skills
 7. **Multimodal Modeling**
 8. **Continual Leaning : Incremental Learning, Distillation and Replay Techniques, Memory-Based Approaches for Continual Learning**
 
+
 ### Programming Languages:
 
 1. **Python**
+
 2. **Java SE**
+
 3. **JavaScript**
 
 ### Tools and Technologies:
+
 
 1. **TensorFlow, Pytorch**
 2. **Sklearn, Numpy, Pandas**
@@ -102,6 +108,7 @@ Skills
 4. **JUnit, DbUnit**
 5. **SQL, GraphQL, MongoDB**
 6. **Java SE, JavaFX**
+
 
 Publications
 ============
