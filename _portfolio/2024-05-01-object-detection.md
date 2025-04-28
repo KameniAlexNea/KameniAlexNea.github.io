@@ -1,9 +1,8 @@
 ---
-title: "Object Detection Using Transformers"
+title: "Object Detection Using Transformers for Flood Damage Assessment"
 excerpt: "Developing a Machine Learning Algorithm for Accurate Counting of Roof Types in Rural Malawi Using Aerial Imagery <br/><img src='/images/object-detr.png'>"
 collection: portfolio
 ---
-
 ---
 
 **Project Title: Developing a Machine Learning Algorithm for Accurate Counting of Roof Types in Rural Malawi Using Aerial Imagery**
@@ -37,9 +36,9 @@ The project employs several state-of-the-art machine learning models to achieve 
      - **CondDETR (Conditional DETR) 50**
      - **DETA 50**
      - **DETR 101**
-     - **Yolos (You Only Look One-level Small) Base and Small**
+     - **Yolos (You Only Look One-level) Base and Small**
      - **DETR-50-dc5**
-   - Each model is trained on the provided dataset, with specific attention to the diverse structures of rural houses in Malawi, which are typically circular or rectangular with mud-built walls and grass-thatched roofs.
+   - Each model is trained on the provided dataset, with specifi attention to the diverse structures of rural houses in Malawi, which are typically circular or rectangular with mud-built walls and grass-thatched roofs.
 3. **Evaluation and Fine-Tuning:**
 
    - Models are evaluated based on their accuracy in counting roof types, with specific metrics such as Intersection over Union (IoU) and other relevant performance indicators.
@@ -47,9 +46,10 @@ The project employs several state-of-the-art machine learning models to achieve 
 
 **Tools and Technologies:**
 
-- **Python:** The primary programming language used for developing and implementing the models.
-- **PyTorch:** The main deep learning framework utilized for building and training the models.
-- **Google Colab:** An online platform providing GPU resources for running experiments and facilitating collaborative development.
+- **Core Concepts**: Object Detection, Computer Vision, Deep Learning, Transformers, Satellite Image Processing
+- **Machine Learning Frameworks**: PyTorch (primary deep learning framework for building and training models)
+- **Libraries**: GDAL, Rasterio (for geospatial data), OpenCV, Scikit-image (for image processing)
+- **Compute Resources**: Google Colab providing GPU resources for running experiments and facilitating collaborative development
 
 **Domain Knowledge:**
 
@@ -57,9 +57,12 @@ The project employs several state-of-the-art machine learning models to achieve 
 - **Machine Learning:** Expertise in developing and fine-tuning machine learning models for image recognition and object detection.
 - **Disaster Response and Management:** Knowledge of the requirements and challenges in disaster response to ensure the developed solution is practical and effective in real-world scenarios.
 
-**Project Report:**
+**Applications:**
 
-The project's results, methodologies, and findings are documented comprehensively, detailing the techniques used, experiments conducted, and outcomes observed. This documentation provides insights into the model's performance and highlights areas for future improvements.
+- **Disaster Response and Management**: Provides accurate, timely data on flood impact to aid organizations and government agencies.
+- **Humanitarian Aid**: Helps identify and prioritize aid distribution to the most affected populations.
+- **Infrastructure Planning**: Offers insights into vulnerable areas and building types for better long-term planning and resilience building.
+- **Climate Change Adaptation**: Contributes data for understanding the impact of climate-related events on vulnerable communities.
 
 **Outcome and Future Work:**
 
@@ -72,7 +75,5 @@ The project's results, methodologies, and findings are documented comprehensivel
 - **Continuous Improvement:**
 
   - Ongoing research and collaboration with local authorities and disaster management agencies to refine the models and incorporate feedback for better performance.
-
-
 
 <img src='/images/object-detr.png'>
