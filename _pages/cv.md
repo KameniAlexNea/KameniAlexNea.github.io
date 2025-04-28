@@ -11,25 +11,29 @@ redirect_from:
 Education
 =========
 
-## Master's degree, Datascience and Machine learning, September 2021 - August 2022
+## Master's degree, Datascience and Machine Learning, September 2021 - August 2022
 
-[Ecole nationale supérieure de l&#39;Electronique et de ses Applications](https://www.ensea.fr/fr)
+[Ecole nationale supérieure de l'Electronique et de ses Applications](https://www.ensea.fr/fr), France
 
-* Computational image processing, Artificial Intelligence, Machine Learning, Data Integration and Mining, Deep learning for image and video analysis, Big Data.
-* Final Research Project on : Data incremental learning applied to self-supervised learning model in computer vision.
+* Advanced coursework in Computational Image Processing, Artificial Intelligence, Machine Learning, Data Integration and Mining, Deep Learning for Image and Video Analysis, and Big Data Architecture.
+* Research-focused curriculum with emphasis on practical applications in computer vision and self-supervised learning techniques.
+* Final Research Project: "Data Incremental Learning Applied to Self-Supervised Learning Models in Computer Vision" - Developed novel approaches to continual learning with limited supervision.
 
-## Master's degree, Computer Science Engineer, September 2018 - August 2021
+## Master's degree, Computer Science Engineering, September 2018 - August 2021
 
-[Ecole Nationale Supérieure Polytechnique de Yaoundé](https://polytechnique.cm/)
+[Ecole Nationale Supérieure Polytechnique de Yaoundé](https://polytechnique.cm/), Cameroon
 
-* Fund. of ML, DL for Image Processing, Fund. of Databases, Data Mining, Software engineering, Multi-Agent System, Big Data, Artificial Intelligence.
-* Final Research Project on : Constraint Optimization of Resources Used by task in Workflows.
+* Comprehensive training in Fundamentals of Machine Learning, Deep Learning for Image Processing, Database Management, Data Mining, Software Engineering, Multi-Agent Systems, Big Data Analytics, and Artificial Intelligence.
+* Balanced theoretical foundations with practical implementations through project-based learning.
+* Final Research Project: "Constraint Optimization of Resources Used by Tasks in Workflows" - Designed efficient algorithms for resource allocation in complex workflow systems.
 
-## Student Engineer, Mathematics and Physical Science, September 2016 - August 2018
+## Preparatory Classes, Mathematics and Physical Sciences, September 2016 - August 2018
 
-[Ecole Nationale Supérieure Polytechnique de Yaoundé](https://polytechnique.cm/)
+[Ecole Nationale Supérieure Polytechnique de Yaoundé](https://polytechnique.cm/), Cameroon
 
-* Training focused on engineering sciences. Mathematics and Physics for Engineering
+* Intensive two-year program focused on engineering foundations with emphasis on advanced Mathematics and Physics.
+* Developed strong analytical thinking and problem-solving skills essential for engineering disciplines.
+* Rigorous preparation for competitive engineering school entrance examinations.
 
 Work experience
 ===============

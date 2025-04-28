@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Certifications & Skills"
-permalink: /courses/
+permalink: /certifications/
 author_profile: true
 redirect_from:
   - /certifications
