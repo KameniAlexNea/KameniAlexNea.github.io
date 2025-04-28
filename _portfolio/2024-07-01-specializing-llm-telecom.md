@@ -8,7 +8,7 @@ collection: portfolio
 
 Large Language Models (LLMs) demonstrate remarkable capabilities in general text understanding and generation. However, their effectiveness can be limited when applied to highly specialized domains like telecommunications without specific adaptation. This project explores the specialization of LLMs to improve their performance on tasks requiring deep telecom industry knowledge.
 
-![LLM](/images/iStock-1486380350.webp)
+![LLM](/images/llm-image.webp)
 
 #### Objective
 
