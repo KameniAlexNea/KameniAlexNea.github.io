@@ -24,7 +24,7 @@ author:
   avatar           : "alex_cpm.jpg"
   name             : "Alex KAMENI"
   pronouns         : # example: "she/her"  
-  bio              : "Love Data & Story Teller"
+  bio              : "Machine Learning Engineer | Data Scientist | AI Researcher"
   location         : "Paris, France"
   employer         : "Ivalua"
   uri              : # URL
@@ -228,16 +228,16 @@ collections:
 # These settings control how pages and collections are included in the site
 defaults:
   # _posts
-  # - scope:
-  #     path: ""
-  #     type: posts
-  #   values:
-  #     layout: single
-  #     author_profile: true
-  #     read_time: true
-  #     comments: true
-  #     share: true
-  #     related: true
+  - scope:
+       path: ""
+       type: posts
+    values:
+       layout: single
+       author_profile: true
+       read_time: true
+       comments: true
+       share: true
+       related: true
   # _pages
   - scope:
       path: ""

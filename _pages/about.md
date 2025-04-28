@@ -6,59 +6,67 @@ redirect_from:
   - /about/
   - /about.html
 ---
-# Alex Kameni, ML Eng
 
-Driven by a passion for data science and machine learning, I constantly seek opportunities to innovate, learn, and implement best practices. My collaborative spirit and commitment to continual improvement have fueled my growth in both research and applied domains.
+# **Alex Kameni**  
+**Machine Learning Engineer | Data Scientist | AI Researcher**  
 
-## About Me
-
-I hold a Master’s degree in Complex Systems Engineering (2022), specializing in Machine Learning and Data Science from CY Cergy Paris University. My master's research at the ETIS Laboratory of ENSEA explored data incremental learning for self-supervised computer vision models, addressing challenges in continual learning.
-
-Additionally, I earned an engineering degree in Computer Science from the Polytechnic School of Yaoundé, Cameroon. My academic journey included in-depth research and two defended projects on cutting-edge topics in machine learning.
-
-Currently, as a Data Scientist at Ivalua, I focus on enhancing invoice data capture and domain-specific language model integration. I’ve introduced transformative solutions like deploying LayoutLM for multimodal data comprehension, improving resource efficiency, and optimizing data pipelines. My contributions have significantly streamlined operations and advanced AI adoption within the organization.
-
-Beyond work, I’m actively involved in projects spanning African history, NLP, computer vision, and self-supervised learning, showcasing my versatile skill set and commitment to impactful solutions.
+Passionate about leveraging data science and machine learning to solve complex problems, I thrive at the intersection of innovation and practical implementation. With a strong academic foundation and hands-on industry experience, I specialize in developing scalable AI solutions—from self-supervised learning to NLP and computer vision. My collaborative mindset and dedication to continuous learning drive me to push boundaries in both research and real-world applications.  
 
 
-## Personal projects
+## **About Me**  
 
-**Medivocate – Exploring African History and Culture with AI**
-*Published: January 11, 2025*
-An AI-powered platform exploring African history, culture, and traditional medicine, fostering understanding and appreciation of the continent’s rich heritage.
+I hold a **Master’s in Complex Systems Engineering** (2022) from **CY Cergy Paris University**, specializing in **Machine Learning and Data Science**, where my research at **ETIS Laboratory (ENSEA)** focused on **continual learning for self-supervised computer vision models**. Prior to this, I earned an **Engineering Degree in Computer Science** from the **Polytechnic School of Yaoundé, Cameroon**, completing thesis projects on cutting-edge ML topics.  
 
-**Fine-Tuning GLiNER for Location Mention Recognition (LMR)**
-*Published: September 01, 2024*
-Enhanced the GLiNER model to improve location mention recognition, aiding disaster response and location-based tasks.
+Currently, as a **Data Scientist at Ivalua**, I enhance **AI-driven invoice processing** by integrating **domain-specific language models** and **multimodal AI (LayoutLM)**. My work has optimized data pipelines, improved model efficiency, and accelerated AI adoption across the organization.  
 
-**Specializing Large Language Models for Telecom Applications**
-*Published: July 01, 2024*
-Enhanced Falcon 7.5B and Phi-2 models on telecom-specific knowledge using the TeleQnA dataset, leveraging Retrieval Augmented Generation and prompt engineering.
+Beyond my professional role, I actively contribute to **open-source AI projects**, exploring **African history with NLP, self-supervised learning, and computer vision**—showcasing my versatility and commitment to impactful technology.  
 
-**Object Detection Using Transformers**
-*Published: May 01, 2024*
-Developed a machine learning algorithm for accurate roof-type classification in rural Malawi using aerial imagery.
+Here’s an improved and more polished version of your description section, with refined language, better flow, and stronger impact:
+Here’s your updated **Projects & Research** section with the new additions integrated in a structured and impactful way:  
 
-**Semi-Supervised Learning with Few Labels**
-*Published: January 01, 2023*
-Improved self-supervised learning models in scenarios with minimal labeled data, enhancing their robustness and adaptability.
+## **Projects & Research**  
 
-**Continual Self-Supervised Learning Through Distillation and Replay**
-*Published: September 01, 2022*
-Addressed catastrophic forgetting in self-supervised learning using distillation, replay techniques, and predictive mechanisms.
+### **📂 LLM Output Parser: Effortless JSON/XML Extraction** *(Mar 2025)*  
+Developed a **Python tool** to **reliably parse JSON/XML** from unstructured LLM outputs, streamlining data extraction for downstream applications.  
 
-**Financial Data Generation**
-*Published: December 01, 2021*
-Developed methods for synthesizing high-quality financial data for machine learning applications.
+### **🤖 LangGraph AgentFlow: Orchestrating Complex AI Agent Workflows** *(Mar 2025)*  
+Created a **Python library** for **automating multi-step AI agent workflows** using **LangGraph**, enabling scalable and modular AI task automation.  
 
-**Constraints Optimization of Resource Usage by Tasks in Workflows**
-*Published: September 01, 2021*
-Optimized resource allocation in workflows, balancing efficiency and performance.
+### **🌍 Lightweight Language Identification Model (200 Languages)** *(Feb 2025)*  
+Built a **BERT-based model optimized for CPU** that accurately detects **200+ languages**, balancing performance and efficiency for edge deployment.  
 
-**NER for Commands Extraction**
-*Published: June 01, 2021*
-Designed a Named Entity Recognition system to extract commands from text, enabling better task automation.
+### **🔖 GraphRAG-Tagger: Topic Extraction & Graph Visualization Toolkit** *(Feb 2025)*  
+Designed an **end-to-end system** for extracting topics from PDFs and visualizing knowledge graphs, enhancing **GraphRAG-based retrieval**.  
 
-**Users’ Understanding Queries**
-*Published: September 01, 2020*
-Enhanced user query understanding by building NLP systems capable of semantic comprehension and accurate intent detection.
+### **📜 Dikoka: AI-Powered Document Analyzer for Historical Records** *(Dec 2024)*  
+An **LLM & RAG-driven tool** to analyze and contextualize **historical documents**, making archival research more accessible.  
+
+### **🔍 Medivocate – AI-Powered Exploration of African History & Culture** *(Jan 2025)*  
+An interactive platform using AI to uncover and share insights on **African heritage, traditional medicine, and cultural narratives**, fostering global appreciation.  
+
+### **📍 Fine-Tuning GLiNER for Location Mention Recognition (LMR)** *(Sep 2024)*  
+Enhanced **GLiNER’s geospatial understanding** for disaster response and location-based applications through targeted model optimization.  
+
+### **📡 Specializing LLMs for Telecom with RAG & Prompt Engineering** *(Jul 2024)*  
+Adapted **Falcon 7.5B and Phi-2** on the **TeleQnA dataset**, improving telecom-specific knowledge retrieval via **Retrieval-Augmented Generation (RAG)**.  
+
+### **🛰️ Transformer-Based Object Detection for Aerial Imagery** *(May 2024)*  
+Built a **vision transformer model** to classify roof types in rural Malawi, aiding infrastructure planning using satellite data.  
+
+### **🔬 Semi-Supervised Learning with Minimal Labels** *(Jan 2023)*  
+Improved **self-supervised models’ robustness** in low-label scenarios, enhancing adaptability for real-world deployment.  
+
+### **🔄 Continual Self-Supervised Learning via Distillation & Replay** *(Sep 2022)*  
+Tackled **catastrophic forgetting** in self-supervised models using **knowledge distillation and memory replay** techniques.  
+
+### **📊 Synthetic Financial Data Generation for ML** *(Dec 2021)*  
+Developed methods to generate **high-fidelity synthetic financial datasets**, enabling secure and scalable ML training.  
+
+### **⚙️ Optimizing Workflow Resource Allocation** *(Sep 2021)*  
+Designed a **constraint-based optimization system** to balance computational efficiency and task performance in workflows.  
+
+### **🗣️ NER for Automated Command Extraction** *(Jun 2021)*  
+Built a **Named Entity Recognition (NER) pipeline** to extract executable commands from unstructured text, advancing task automation.  
+
+### **🤖 Semantic Query Understanding for NLP Systems** *(Sep 2020)*  
+Enhanced **intent detection and semantic parsing** in NLP models to improve user query comprehension.  
