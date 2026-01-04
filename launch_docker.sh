@@ -2,4 +2,4 @@
 docker build -t jekyll-site .
 
 # Run the container with live reloading
-docker run -p 4000:4000 -v $(pwd):/usr/src/app jekyll-site
+docker run -d -p 4000:4000 -v $(pwd):/usr/src/app jekyll-site

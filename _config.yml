@@ -13,7 +13,7 @@ title                    : "Alex KAMENI / ML Engineer"
 title_separator          : "-"
 name                     : &name "Alex KAMENI"
 description              : &description "Passionate about data science and continuously striving for improvement through best practices and collaboration. Always eager to learn and innovate in the field of data science and machine learning."
-url                      : https://KameniAlexNea.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://alexneakameni.cloud # the base hostname & protocol for your site
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "KameniAlexNea/KameniAlexNea.github.io"
 
